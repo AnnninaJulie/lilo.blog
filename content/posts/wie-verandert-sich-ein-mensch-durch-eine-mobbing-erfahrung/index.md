@@ -25,8 +25,6 @@ description = "Interview über Mobbingerfahrung. "
 > ### ***"Ich fragte mich, ob das Leben wirklich lebenswert ist oder sein wird."***
 >
 > **\*-**  **Gesagt von Aline Probst.***
->
->
 
 ![Foto von Aline Probst.](76812b26-811d-442b-88cd-ffe7de09cfc8.jpeg)
 
@@ -42,9 +40,7 @@ description = "Interview über Mobbingerfahrung. "
 
 **Wie endete das Mobbing?**                                                                                                                                           Es hat eigentlich nie wirklich geendet, denn das Mobbing lief immer mehr aus dem Ruder, so dass wir beinahe die Polizei einschalten mussten aufgrund von Morddrohungen. Trotzdem versuchte ich, da es mich über eine lange Zeit begleitete, irgendwann es einfach zu ignorieren.
 
-
-
-> ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst.*** 
+> ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst.***
 >
 > ***\- Spruch aus Pinterest von Cherokee Billie Spiritual Advisor .***
 
