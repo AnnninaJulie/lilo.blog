@@ -6,7 +6,7 @@ pinned = false
 image = ""
 description = "Interview über Mobbingerfahrung. "
 +++
-# "All das begann aufgrund meiner Körpergrösse"
+# **"All das begann aufgrund meiner Körpergrösse"**
 
 ## **Wörter haben eine grosse Macht. Sie können jemanden verletzen oder jemandem gut tun. Doch wie verändert sich eine Person durch Mobbing? Über dieses Thema habe ich mit Aline Probst gesprochen, denn in ihrer Schulzeit wurde sie gemobbt und diese Erfahrung teilte sie mit mir in diesem Interview.**
 
@@ -20,17 +20,19 @@ description = "Interview über Mobbingerfahrung. "
 
 **Was waren erste Gedanken oder hattest du auch Sorgen?**                                                                                                                                                           Ja. Ich hatte viele Sorgen. Auch um mich. Denn obwohl ich eine sehr Selbstbewusste Person war, wurde ich immer mehr unsicher. Dies änderte sich damit, dass ich an mir begann zu zweifeln und mir Fragen stellte wie, ob ich gut genug bin. Eine Sorge war auch, dass ich Angst hatte nie wahre Freunde zu finden, denn ich hatte nicht viele Freunde und auch wenn, dann waren es falsche Freunde, die dann hinter meinem Rücken trotzdem über mich gelästert hatten, wodurch ich mich oft allein, verloren oder auch hintergangen gefühlt habe. Dadurch, dass ich aufgehört habe, alles, was geschah zuhause zu erzählen fühlte ich mich auch noch allein und musste selber mit meinen Problemen auskommen. Das war für mich sehr schwierig.
 
+
+
 > ### ***"Ich fragte mich, ob das Leben wirklich lebenswert ist oder sein wird."***
 >
-> ***\-**  **Gesagt von Aline Probst.***
+> **\*-**  **Gesagt von Aline Probst.***
+>
+>
 
 ![Foto von Aline Probst.](76812b26-811d-442b-88cd-ffe7de09cfc8.jpeg)
 
 **Aline Probst** ist 20 Jahre alt und lebt in Rubigen, wo sie auch aufgewachsen ist. Nach der obligatorischen Schulzeit besuchte sie die FMS in Thun, um heute an der PH Bern die Ausbildung zur Kindergärtnerin zu machen. Während ihrer Schulzeit wurde sie gemobbt von ihren Mitschüler*innen.
 
-
-
-**Hattest du Unterstützung?                                                                                                                                   ** Von meinen Eltern hatte ich immer Unterstützung. Sie hatten sich viel für mich eingesetzt und versucht das Mobbing zu stoppen, indem sie den Eltern von den Kindern die gemein waren angerufen hatten, um darüber zu sprechen oder mit den Lehrpersonen das Gespräch suchten.  Auch sonst munterten sie mich immer auf, wenn ich oft weinend nach Hause kam, da es auch auf das Körperliche weiterging.
+**Hattest du Unterstützung?**                                                                                                                                    Von meinen Eltern hatte ich immer Unterstützung. Sie hatten sich viel für mich eingesetzt und versucht das Mobbing zu stoppen, indem sie den Eltern von den Kindern die gemein waren angerufen hatten, um darüber zu sprechen oder mit den Lehrpersonen das Gespräch suchten.  Auch sonst munterten sie mich immer auf, wenn ich oft weinend nach Hause kam, da es auch auf das Körperliche weiterging.
 
 **Du sagst, es gab auch Körperliche Vorfälle, schlugen die Kinder dich oder was meinst du damit?**                                                                                                                            Nein sie schlugen mich nicht, aber im Winter zum Beispiel füllten sie Schneebälle mit Steinen, die sie mir dann angeworfen hatten oder anderen Unsinn.
 
@@ -40,10 +42,10 @@ description = "Interview über Mobbingerfahrung. "
 
 **Wie endete das Mobbing?**                                                                                                                                           Es hat eigentlich nie wirklich geendet, denn das Mobbing lief immer mehr aus dem Ruder, so dass wir beinahe die Polizei einschalten mussten aufgrund von Morddrohungen. Trotzdem versuchte ich, da es mich über eine lange Zeit begleitete, irgendwann es einfach zu ignorieren.
 
-> ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst. ***
+
+
+> ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst.*** 
 >
 > ***\- Spruch aus Pinterest von Cherokee Billie Spiritual Advisor .***
-
-
 
 ![Aline Probst hat das Interview gut geheissen mit dieser Unterschrift.](633f24ed-58ce-4f66-852e-96c1e7a73c5a.jpeg)
