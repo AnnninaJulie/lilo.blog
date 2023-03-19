@@ -40,6 +40,8 @@ description = "Interview über Mobbingerfahrung. "
 
 **Wie endete das Mobbing?**                                                                                                                                           Es hat eigentlich nie wirklich geendet, denn das Mobbing lief immer mehr aus dem Ruder, so dass wir beinahe die Polizei einschalten mussten aufgrund von Morddrohungen. Trotzdem versuchte ich, da es mich über eine lange Zeit begleitete, irgendwann es einfach zu ignorieren.
 
+
+
 > ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst.***
 >
 > ***\- Spruch aus Pinterest von Cherokee Billie Spiritual Advisor .***
