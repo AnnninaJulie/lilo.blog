@@ -20,8 +20,6 @@ description = "Interview über Mobbingerfahrung. "
 
 **Was waren erste Gedanken oder hattest du auch Sorgen?**                                                                                                                                                           Ja. Ich hatte viele Sorgen. Auch um mich. Denn obwohl ich eine sehr Selbstbewusste Person war, wurde ich immer mehr unsicher. Dies änderte sich damit, dass ich an mir begann zu zweifeln und mir Fragen stellte wie, ob ich gut genug bin. Eine Sorge war auch, dass ich Angst hatte nie wahre Freunde zu finden, denn ich hatte nicht viele Freunde und auch wenn, dann waren es falsche Freunde, die dann hinter meinem Rücken trotzdem über mich gelästert hatten, wodurch ich mich oft allein, verloren oder auch hintergangen gefühlt habe. Dadurch, dass ich aufgehört habe, alles, was geschah zuhause zu erzählen fühlte ich mich auch noch allein und musste selber mit meinen Problemen auskommen. Das war für mich sehr schwierig.
 
-
-
 > ### ***"Ich fragte mich, ob das Leben wirklich lebenswert ist oder sein wird."***
 >
 > **\*-**  **Gesagt von Aline Probst.***
@@ -40,10 +38,6 @@ description = "Interview über Mobbingerfahrung. "
 
 **Wie endete das Mobbing?**                                                                                                                                           Es hat eigentlich nie wirklich geendet, denn das Mobbing lief immer mehr aus dem Ruder, so dass wir beinahe die Polizei einschalten mussten aufgrund von Morddrohungen. Trotzdem versuchte ich, da es mich über eine lange Zeit begleitete, irgendwann es einfach zu ignorieren.
 
-
-
 > ### ***Wörter können jemanden verletzen oder heilen, es kommt ganz darauf an welche du wählst.***
 >
 > ***\- Spruch aus Pinterest von Cherokee Billie Spiritual Advisor .***
-
-![Aline Probst hat das Interview gut geheissen mit dieser Unterschrift.](633f24ed-58ce-4f66-852e-96c1e7a73c5a.jpeg)
