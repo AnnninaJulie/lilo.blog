@@ -3,7 +3,7 @@ title = "Wie verändert sich ein Mensch durch eine Mobbing Erfahrung?"
 date = "2023-03-19"
 draft = false
 pinned = false
-image = ""
+image = "oip.jpeg"
 description = "Interview über Mobbingerfahrung. "
 +++
 # **"All das begann aufgrund meiner Körpergrösse"**
