@@ -4,7 +4,7 @@ date = "2023-05-04"
 draft = false
 pinned = false
 image = "oip.jpeg"
-description = ""
+description = "Die verheerenden Auswirkungen von Mobbing, nach einem Mobbing Erlebnis."
 +++
 # **Hass statt Harmonie: Die verheerenden Auswirkungen von Mobbing**
 
