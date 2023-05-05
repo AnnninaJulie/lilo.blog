@@ -34,6 +34,8 @@ Mobbing ist ein Psychoterror mit der Intention, dem Opfer zu schaden, es auszugr
 
 ![Aline Probst ist 20 Jahre alt und lebt in Rubigen, wo sie auch aufgewachsen ist. Nach der obligatorischen Schulzeit besuchte sie die FMS in Thun, um heute an der PH Bern die Ausbildung zur Kindergärtnerin zu machen. Während ihrer Schulzeit wurde sie gemobbt von ihren Mitschüler*innen.](76812b26-811d-442b-88cd-ffe7de09cfc8.jpeg)
 
+
+
 **Durch ungefragte Kommentare schwerwiegende Krankheiten auslösen**  
 
 Durch solche Erfahrungen verändert sich ein Mensch. Auch Aline veränderte sich. Zuerst Verwirrung doch dann Traurigkeit, die zunimmt, die Selbstsicherheit, die abnimmt und Lebensfreude, die am Morgen beim Aufstehen nicht mehr vorhanden ist. Aline zog sich mehr und mehr zurück, selten lieg ihr ein Lächeln auf den Lippen, sie verschloss sich und bekommt Probleme dabei neue Menschen kennenzulernen, ohne Unsicherheiten, die ihren Kopf dabei schwer machen. Weniger essen, weil der Appetit schon lange vergangen ist. Jetzt wirkt sie nachdenklicher und sagt «Es ist hart, daran zu denken und erneut zu realisieren, dass das alles mir passierte.» Im Hintergrund hört man kleine Kinder, die umherspringen und zusammen lachen, während wir über etwas sprechen, was dem Gegenteil davon entspricht, nämlich nicht mit anderen Kindern draussen sein und lachen, sondern eingeschüchtert sein und am liebsten den Nachmittag allein im Zimmer verbringen. Je länger jemand gemobbt wird, desto schwerwiegender sind die Folgen. Konzentrationsprobleme, Nervosität, Beeinträchtigung des Selbstwertgefühls, Schlafstörungen, Angst und Panik, Burnout, Suizidgedanken, Essstörungen, Depressionen oder auch Erkrankungen wie Magen-Darm oder Herz-Kreislauf Erkrankungen können durch Mobbing ausgelöst werden.
@@ -43,8 +45,6 @@ Durch solche Erfahrungen verändert sich ein Mensch. Auch Aline veränderte sich
 **«Aber wieso?»**
 
 Immer wieder kommt in mir die Frage auf welche Gründe ein Mobbingtäter hat, um jemanden zu mobben. Laut meiner Recherche sind Gründe für Mobbing Minderwertigkeitsgefühle, die der Täter mit sich trägt, aber sich dann durch seine Mobbing Aktionen besser fühlen kann oder auch stärker, wenn sie Macht auf jemanden ausüben können. Durch Erniedrigungen im eigenen Umfeld, kann sich das Bedürfnis entwickeln, andere Menschen auch zu erniedrigen. Häufig kommt es vor, dass die Mobbing Täter selbst unzufrieden sind in ihrem Leben, aber auch neidisch auf dieses, welches das Mobbing-Opfer lebt und somit dann mit Mobbing dafür sorgen, dass diese Person auch unzufriedener sein kann. Aline wusste die Motive des Täters nicht, nur dass es aufgrund ihrer Körpergrösse begann. Die Beleidigungen und Beschimpfungen begleiteten sie bis in die FMS. Nun spüre ich leichte Trauer, denn ihre ganze Schulzeit wurde davon geprägt, weil sich immer wieder neue Menschen der Mobbing Gruppe anschlossen und die Mitschüler*innen aus ihrer ehemaligen Klasse in Rubigen mit nach Münsingen in die Oberstufe kamen und später auch auf Thun in die FMS. «Das war mühsam» erklärt sie mir, weil sie sich freute auf einen Schulwechsel, um neu zu starten aber die Schulpläne ihr ein Strich durch die Rechnung machten, denn was verbessert die Schulzeit nicht mehr als gute Freunde, mit denen man Zeit verbringen und großartige Erinnerungen sammeln kann. Das fehlte ihr und machte die Schulzeit schwerer.
-
-
 
 **Wie endet ein solcher Albtraum?**
 
