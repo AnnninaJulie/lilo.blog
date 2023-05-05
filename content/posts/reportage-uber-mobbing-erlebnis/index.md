@@ -36,13 +36,7 @@ Mobbing ist ein Psychoterror mit der Intention, dem Opfer zu schaden, es auszugr
 
 ![Unsere Aussicht auf der kleinen Schanze in Bern am 24.2.2023, während des Interviews.](whatsapp-image-2023-05-04-at-22.07.49-1-.jpeg)
 
-![](76812b26-811d-442b-88cd-ffe7de09cfc8.jpeg)
-
-{{<box>}}
-
-Aline Probst ist 20 Jahre alt und lebt in Rubigen, wo sie auch aufgewachsen ist. Nach der obligatorischen Schulzeit besuchte sie die FMS in Thun, um heute an der PH Bern die Ausbildung zur Kindergärtnerin zu machen. Während ihrer Schulzeit wurde sie gemobbt von ihren Mitschüler*innen.
-
-{{<box>}}
+![Aline Probst ist 20 Jahre alt und lebt in Rubigen, wo sie auch aufgewachsen ist. Nach der obligatorischen Schulzeit besuchte sie die FMS in Thun, um heute an der PH Bern die Ausbildung zur Kindergärtnerin zu machen. Während ihrer Schulzeit wurde sie gemobbt von ihren Mitschüler*innen.](76812b26-811d-442b-88cd-ffe7de09cfc8.jpeg)
 
 
 
