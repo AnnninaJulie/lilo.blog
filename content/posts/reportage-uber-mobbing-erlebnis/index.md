@@ -28,7 +28,7 @@ Es war Freitag als Aline mir ihre Geschichte erzählte. Die Sonne schien und die
 
 Mobbing ist ein Psychoterror mit der Intention, dem Opfer zu schaden, es auszugrenzen und abzuwerten. Jemand wird gemobbt, wenn diese Person von einer Gruppe über einen längeren Zeitraum wiederholt, gedemütigt oder schikaniert wird. In der Schweiz sind hochgerechnet ungefähr 1.7 Millionen Menschen von Mobbing betroffen.
 
-{{<box>}}
+{{</box>}}
 
 
 
