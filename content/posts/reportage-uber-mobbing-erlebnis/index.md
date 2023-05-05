@@ -24,11 +24,7 @@ Es war Freitag als Aline mir ihre Geschichte erzählte. Die Sonne schien und die
 
 «Du bist zu klein!» In etwa so begann die ganze Geschichte, erzählt mir Aline. Ich erkenne, während sie spricht, in ihrem Gesichtsausdruck, dass sie unsicher ist und nicht weiss, ob es mittlerweile lächerlich ist, was damals geschah oder doch immer noch belastend.  Es ist kein leichtes Thema für sie, denn solange her ist es nämlich nicht. Das Mobbing begann, als sie elf Jahre alt war. Ihre Körpergrösse war das Problem, denn sie war kleiner im Vergleich zu ihren Mitschüler*innen, aufgrund dessen musste sie sich immer wie mehr Beleidigungen und Beschimpfungen anhören.  In den meisten Fällen wird eine Person von mehreren Personen gemobbt, wodurch das Opfer allein ist im Gegensatz zu dem Täter oder der Tätergruppe. Dadurch kann sich der Haupttäter, beziehungsweise der Anführer einer Mobbinggruppe stärker und mächtiger fühlen. Auch Aline war meistens allein und hatte wenig Freunde. Wenn sie Freunde hatte, stellte sie sich dann die Frage, ob es wahre Freunde sind oder etwa solche, die hinter ihrem Rücken über sie lästern. Mobbing unterscheidet man in indirekte oder direkte Angriffe, wobei indirekte Angriffe nicht vor der Person, die gemobbt wird, stattfindet sondern im Hintergrund, dazu gehört beispielsweise verbreiten von Gerüchten. Zu direkten Angriffen gehören Beschimpfungen, Drohungen, Blossstellen und Ignorieren. Aline erlebte indirekte sowie direkte Angriffe, wobei die direkten in Form von Beleidigungen wie «Du Bitch», körperliche Angriffe oder Morddrohungen, die sie später über die Sozialen-Medien zugesendet bekam.
 
-{{<box>}}
-
-Mobbing ist ein Psychoterror mit der Intention, dem Opfer zu schaden, es auszugrenzen und abzuwerten. Jemand wird gemobbt, wenn diese Person von einer Gruppe über einen längeren Zeitraum wiederholt, gedemütigt oder schikaniert wird. In der Schweiz sind hochgerechnet ungefähr 1.7 Millionen Menschen von Mobbing betroffen.
-
-{{</box>}}
+{{<box>}}Mobbing ist ein Psychoterror mit der Intention, dem Opfer zu schaden, es auszugrenzen und abzuwerten. Jemand wird gemobbt, wenn diese Person von einer Gruppe über einen längeren Zeitraum wiederholt, gedemütigt oder schikaniert wird. In der Schweiz sind hochgerechnet ungefähr 1.7 Millionen Menschen von Mobbing betroffen.{{</box>}}
 
 
 
