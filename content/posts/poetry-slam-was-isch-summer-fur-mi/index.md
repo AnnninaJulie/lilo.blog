@@ -3,6 +3,7 @@ title = "Poetry Slam: Was isch Summer für mi?"
 date = "2023-05-25"
 draft = false
 pinned = false
+image = "oip.jpeg"
 +++
 
 
